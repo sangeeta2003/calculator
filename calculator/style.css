@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-size: 85px;
+    color:blueviolet;
+    
+}
+
+.formstyle{
+    border: 1px solid black;
+    text-align:center;
+    font-size:50px;
+    height:800px;
+    width:800px;
+    background-color:black;
+    color:white;
+    font-weight:500px;
+    position:absolute;
+    left:630px
+}
+input{
+    width:80px;
+    height:50px;
+    font-size:30px;
+    
+}
+#calc{
+    width:300px;
+    height:50px;
+}
